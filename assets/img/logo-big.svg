@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 467.72 280.79"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="logo-big.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="971"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="0.64354742"
+     inkscape:cx="233.86"
+     inkscape:cy="140.395"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1,.cls-5{fill:#1a335f;}.cls-2{fill:#050606;opacity:0.22;}.cls-3{fill:#fff;}.cls-4{fill:#bcbec0;}.cls-5{font-size:224.55px;font-family:NotoSans, Noto Sans;}</style>
+  </defs>
+  <title
+     id="title6">Asset 1</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     transform="translate(-5.1077741,33.07774)">
+    <g
+       id="Layer_1-2"
+       data-name="Layer 1">
+      <path
+         class="cls-1"
+         d="m 467.72,109.49 a 87.81,87.81 0 1 1 -87.81,-87.8 87.15,87.15 0 0 1 87.81,87.8 z"
+         id="path8"
+         inkscape:connector-curvature="0"
+         style="fill:#1a335f" />
+      <path
+         class="cls-2"
+         d="m 466.56,123.76 a 87.88,87.88 0 0 1 -107.27,71.1 l -27.17,-27.17 1.61,-5.95 4.73,-17.5 4.71,-2.7 0.5,-0.29 16.66,-9.55 19.27,-38.76 4.73,-9.51 -1.46,-14.43 -1,-9.76 -2.27,-22.44 z"
+         id="path10"
+         inkscape:connector-curvature="0"
+         style="opacity:0.22000002;fill:#050606" />
+      <rect
+         class="cls-3"
+         x="416.64001"
+         y="137.92999"
+         width="9.46"
+         height="33.540001"
+         rx="4.73"
+         id="rect12"
+         style="fill:#ffffff" />
+      <rect
+         class="cls-3"
+         x="333.73001"
+         y="137.28999"
+         width="9.46"
+         height="33.540001"
+         rx="4.73"
+         id="rect14"
+         style="fill:#ffffff" />
+      <rect
+         class="cls-3"
+         x="374.87"
+         y="36.799999"
+         width="9.46"
+         height="33.540001"
+         rx="4.73"
+         id="rect16"
+         style="fill:#ffffff" />
+      <polygon
+         class="cls-3"
+         points="379.6,53.7 338.28,154.42 379.6,126.42 420.92,154.42 "
+         id="polygon18"
+         style="fill:#ffffff" />
+      <polygon
+         class="cls-4"
+         points="420.92,154.42 379.6,53.7 379.6,126.42 "
+         id="polygon20"
+         style="fill:#bcbec0" />
+      <text
+         class="cls-5"
+         transform="translate(0,192.42)"
+         id="text22"
+         style="font-size:224.55000305px;font-family:NotoSans, 'Noto Sans';fill:#1a335f">3G</text>
+    </g>
+  </g>
+</svg>

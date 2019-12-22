@@ -12,6 +12,7 @@ h1 {
   overflow: hidden;
 }
 .kai-header {
+  padding-top: 20px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -557,6 +558,7 @@ ul {
 .kai-al-icon-focused span:before,
 .kai-al:focus {
   color: #fff;
+  background-color: var(--color-blue-dark) !important;
   color: var(--al-text-focused);
 }
 .kai-al-icon-focused span:before {
@@ -1151,13 +1153,16 @@ ul {
   color: #fff;
 }
 :root {
-  --button-text-focused: var(--color-gs00);
+  --button-text-focused: var(--color-white);
+  --button-bg-focused: var(--color-blue-dark);
   --button-icon-unfocused: var(--color-gs100);
 }
 .kai-button {
   margin: 1rem;
 }
 .kai-button-input {
+  background-color: var(--color-white); 
+  color: var(--color-blue-dark);
   line-height: 1.8rem;
   line-height: calc(var(--button-height) / 2);
   width: 100%;
@@ -1172,8 +1177,8 @@ ul {
   outline: none;
 }
 .kai-button-input:focus {
-  color: #fff;
-  color: var(--button-text-focused);
+  background-color: var(--button-bg-focused) !important;
+  color: var(--button-text-focused) !important;
 }
 .kai-button-icon-focused img,
 .kai-button-icon-focused span:before {
@@ -1433,7 +1438,7 @@ input {
 .theme-system {
   --highlight-color: var(--color-purple);
   --highlight-color-pressed: var(--color-purple-pressed);
-  --header-background: var(--header-purple-background);
+  --header-background: var(--header-blue-background);
   --header-color: var(--color-beta);
 }
 :root {
@@ -1441,6 +1446,12 @@ input {
 }
 .kai-text-input {
   padding: 1rem;
+}
+.kai-text-input:focus {
+  background-color: var(--color-blue-dark);
+}
+.kai-text-input:focus .kai-text-input-label {
+  color: var(--color-white) !important;
 }
 .kai-text-input-label {
   padding-bottom: 0.5rem;
@@ -1475,7 +1486,7 @@ html {
   overflow: hidden;
 }
 .content {
-  height: calc(100vh - 5.8rem);
+  height: calc(100vh - 8rem);
   overflow-y: hidden;
 }
 /*# sourceMappingURL=main.03452719.chunk.css.map */
